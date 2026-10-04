@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "engine_version": "1.0.6",
+  "version": "1.0.7",
+  "engine_version": "1.0.0",
   "url": "https://github.com/dfgdzfhzd/Vexa-App/releases/latest/download/update.zip",
-  "changelog_ru": "Vexa 1.0.6 от Baxamyt Studio: вкладка Проекты (создание проекта с именем и типом 2D/3D/WEB, список проектов, запуск Vexa Engine отдельным процессом), путь сохранения проектов в Настройках, окончательно исправлен скролл в Настройках (жёсткое обрезание области, контент больше не уезжает за край), убраны дубликаты папок. Vexa Engine 1.0.0.",
-  "changelog_en": "Vexa 1.0.6 by Baxamyt Studio: Projects tab (create a project with name and 2D/3D/WEB type, project list, launch Vexa Engine as a separate process), projects save path in Settings, Settings scrolling finally fixed (hard viewport clipping, content no longer spills off the edges), removed duplicate folders. Vexa Engine 1.0.0."
+  "changelog_ru": "Vexa 1.0.7 от Baxamyt Studio: прошлые новости формируются из всех версий (1.0.4, 1.0.5, 1.0.6 и т.д.), уведомления работают корректно, реальная установка VexaEngine.exe из update.zip с автопоиском файлов, на вкладке Движок текст слева и кнопка справа с меню Переустановить/Удалить.",
+  "changelog_en": "Vexa 1.0.7 by Baxamyt Studio: past news built from every version (1.0.4, 1.0.5, 1.0.6, etc.), notifications work correctly, real VexaEngine.exe install from update.zip with auto file discovery, Engine tab with text on the left and button on the right plus a Reinstall/Uninstall menu."
 }
