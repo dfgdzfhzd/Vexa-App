@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "engine_version": "1.0.0",
   "url": "https://github.com/dfgdzfhzd/Vexa-App/releases/latest/download/update.zip",
-  "changelog_ru": "Vexa 1.0.7 от Baxamyt Studio: прошлые новости формируются из всех версий (1.0.4, 1.0.5, 1.0.6 и т.д.), уведомления работают корректно, реальная установка VexaEngine.exe из update.zip с автопоиском файлов, на вкладке Движок текст слева и кнопка справа с меню Переустановить/Удалить.",
-  "changelog_en": "Vexa 1.0.7 by Baxamyt Studio: past news built from every version (1.0.4, 1.0.5, 1.0.6, etc.), notifications work correctly, real VexaEngine.exe install from update.zip with auto file discovery, Engine tab with text on the left and button on the right plus a Reinstall/Uninstall menu."
+  "changelog_ru": "Vexa 1.0.8 от Baxamyt Studio: новости теперь формируются из README-файлов, вложенных в релиз (update.zip); приложение само определяет версию каждого README и создаёт новость для этой версии; текст новостей больше не зашит в код.",
+  "changelog_en": "Vexa 1.0.8 by Baxamyt Studio: news is now generated from README files shipped inside the release (update.zip); the app detects each README version and creates the news entry for it; news text is no longer hardcoded."
 }
