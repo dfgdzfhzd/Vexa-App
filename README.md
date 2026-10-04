@@ -1,5 +1,5 @@
 <details>
-<summary><b># Vexa</b></summary>
+<summary><b># Vexa 1.0.3</b></summary>
 
 Создатель: Baxamyt Studio
 
@@ -22,7 +22,7 @@
 
 
 <details>
-<summary><b># Vexa</b></summary>
+<summary><b># Vexa 1.0.2</b></summary>
 
 
 Автор: Baxamyt Studio
