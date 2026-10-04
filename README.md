@@ -60,9 +60,13 @@
 
 Движок предоставляет программный интерфейс MCP (Model Context Protocol):
 внешний клиент (ИИ-ассистент или скрипт) может управлять сценой и
-проектом командами `scene.read/write`, `entity.create/delete/rename`,
-`asset.import`, `project.open/save`, `log.write` и др. Полная схема — в
-`engine/docs/ENGINE_TOOLS.md` (раздел 8).
+проектом командами 
+`scene.read/write`, 
+`entity.create/delete/rename`,
+`asset.import`, 
+`project.open/save`, 
+`log.write` и др. 
+Полная схема — в `engine/docs/ENGINE_TOOLS.md` (раздел 8).
 
 ### Сборка
 
