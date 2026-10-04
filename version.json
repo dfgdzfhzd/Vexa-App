@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/dfgdzfhzd/Vexa-App/releases/latest/download/update.zip",
-  "changelog_ru": "Vexa 1.0.3 от Baxamyt Studio: автоскролл настроек, выравнивание кнопки Уведомления и боковой полосы, выделение текста, несколько экземпляров приложения, оптимизация.",
-  "changelog_en": "Vexa 1.0.3 by Baxamyt Studio: settings auto-scroll, aligned Notifications button and side accent, text selection, multiple instances, optimization."
+  "changelog_ru": "Vexa 1.0.4 от Baxamyt Studio: красивое оформление новостей и информации, новости берутся из README релиза, автопроверка обновлений каждый час с уведомлением, запрет повторного запуска, корректный скролл, новая структура проекта, оптимизация.",
+  "changelog_en": "Vexa 1.0.4 by Baxamyt Studio: redesigned news and info cards, news pulled from release README, hourly update check with notification, single-instance guard, correct scrolling, new project structure, optimization."
 }
