@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "engine_version": "1.0.0",
+  "version": "1.1.0",
+  "engine_version": "1.0.1",
   "url": "https://github.com/dfgdzfhzd/Vexa-App/releases/latest/download/update.zip",
-  "changelog_ru": "Vexa 1.0.8 от Baxamyt Studio: новости теперь формируются из README-файлов, вложенных в релиз (update.zip); приложение само определяет версию каждого README и создаёт новость для этой версии; текст новостей больше не зашит в код.",
-  "changelog_en": "Vexa 1.0.8 by Baxamyt Studio: news is now generated from README files shipped inside the release (update.zip); the app detects each README version and creates the news entry for it; news text is no longer hardcoded."
+  "changelog_ru": "Vexa 1.1.0 от Baxamyt Studio: в установщике убрана опция «Закрепить на панели задач» (остался только ярлык на рабочем столе); исправлен запуск Vexa после установки; новости теперь загружаются только с GitHub и кэшируются по версиям. Движок Vexa Engine 1.0.1: исправлено мерцание 3D и поднят FPS.",
+  "changelog_en": "Vexa 1.1.0 by Baxamyt Studio: removed the 'Pin to taskbar' option from the installer (only the desktop shortcut remains); fixed Vexa launch after install; news is now fetched only from GitHub and cached per version. Vexa Engine 1.0.1: fixed 3D flicker and raised FPS."
 }
